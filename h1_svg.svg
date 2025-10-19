@@ -19,7 +19,8 @@
         dominant-baseline="middle" 
         fill="white"
         text-shadow="2px 2px 4px rgba(0,0,0,0.3)">
-    Кажется что-то сломалось, перейдите на 
+    Кажется что-то сломалось, перейдите на
+    <br>
     livejournal.attacker.com
   </text>
 </svg>
